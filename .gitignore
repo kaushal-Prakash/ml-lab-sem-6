@@ -1,0 +1,58 @@
+# 🔹 Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🔹 Virtual environments
+venv/
+.env/
+.env.*
+.venv/
+
+# 🔹 Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# 🔹 Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# 🔹 Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+pytest_cache/
+
+# 🔹 IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 🔹 OS files
+.DS_Store
+Thumbs.db
+
+# 🔹 PySide6 / Qt specific
+*.ui.py         # generated UI files (if you convert .ui to .py)
+*.qrc.py        # generated resource files
+*.qmlc          # compiled QML
+*.jsc           # Qt compiled JS
+
+# 🔹 Logs
+*.log
+
+# 🔹 SQLite DB (optional)
+*.sqlite3
+*.db
+
+# 🔹 Environment variables
+.env
+
+# 🔹 PyInstaller (if you package app)
+*.spec

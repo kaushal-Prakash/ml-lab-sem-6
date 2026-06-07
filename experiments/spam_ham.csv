@@ -1,0 +1,11 @@
+message,label
+"Congratulations! You won a free iPhone. Claim now!",spam
+"Hey, are we still meeting at 6 PM?",ham
+"URGENT! Your account has been selected for a cash prize.",spam
+"Can you send me the notes from today's class?",ham
+"Win a vacation package worth $5000. Click here!",spam
+"Don't forget to bring your laptop tomorrow.",ham
+"Limited time offer! Get 90% discount now.",spam
+"Happy Birthday! Have a wonderful day.",ham
+"You have been pre-approved for a loan. Apply today!",spam
+"Let's have lunch together this weekend.",ham
